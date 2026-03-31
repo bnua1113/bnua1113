@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text='s%20Development%20Space&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=240\&section=header\&text=Haru%20Yuki\&fontSize=55\&fontColor=ffffff\&animation=fadeIn)
 
 ## 🔨Skills
