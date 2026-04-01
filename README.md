@@ -38,4 +38,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_ID)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120§ion=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer)
