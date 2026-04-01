@@ -26,11 +26,6 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [project-name-1](https://github.com/YOUR_USERNAME/project-1) | 프로젝트 설명 | React, Node.js |
-| [project-name-2](https://github.com/YOUR_USERNAME/project-2) | 프로젝트 설명 | Next.js, PostgreSQL |
-
 ---
 
 ## 📬 Contact
