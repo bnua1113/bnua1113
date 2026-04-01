@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=240\&section=header\&text=Haru%20Yuki\&fontSize=55\&fontColor=ffffff\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,100:2c5364\&height=240\&section=header\&text=Lee%20Hyun\&fontSize=55\&fontColor=ffffff\&animation=fadeIn)
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haruyk2437&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leehyun&theme=react-dark&hide_border=true"/>
 
 <br><br>
 
