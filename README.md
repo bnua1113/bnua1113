@@ -87,7 +87,7 @@
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leehyun&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bnua1113&theme=react-dark&hide_border=true"/>
 
 <br><br>
 
