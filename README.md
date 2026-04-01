@@ -10,14 +10,6 @@
 
 <br><br>
 
-<!-- 🎮 Discord -->
-
-<a href="https://discord.com/users/1108098401192648784">
-<img src="https://img.shields.io/badge/Discord-bedulgi__999-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br><br>
-
 ---
 
 ## 🛠 Tech Stack
@@ -84,19 +76,12 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/haruyk2437/snake/output/github-contribution-grid-snake.svg" />
-
-<br><br>
-
----
 
 ## ⚡ About
 
 💡 Backend & Automation Developer
 ☁️ AWS / Supabase 기반 서비스 개발
-🤖 Discord Bot & 자동화 시스템 제작
 🚀 빠르고 실용적인 프로젝트 지향
 
 <br><br>
