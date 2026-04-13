@@ -80,7 +80,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [project-name-1](https://github.com/YOUR_USERNAME/project-1) | 프로젝트 설명 | React, Node.js |
+| [hanbom.eclipse](https://github.com/bnua1113/hanbom.eclipse) | 과정형평가 | eclipse |
 | [project-name-2](https://github.com/YOUR_USERNAME/project-2) | 프로젝트 설명 | Next.js, PostgreSQL |
 
 ---
